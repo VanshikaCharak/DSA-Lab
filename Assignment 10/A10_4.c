@@ -1,3 +1,4 @@
+// Problem 4: Dynamic Product Catalogue (Binary Search Tree)
 #include <stdio.h>
 #include <stdlib.h>
 

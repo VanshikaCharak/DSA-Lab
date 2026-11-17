@@ -1,3 +1,5 @@
+// Problem 1: HeapSort 
+// Write a program that accepts a set of integers, constructs a heap, and sorts the numbers using heap sort.
 #include <stdio.h>
 
 void heap(int arr[], int n, int i){
